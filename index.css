@@ -1,0 +1,55 @@
+body {
+  background: rgb(18, 7, 83);
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 6px 6px black;
+  font-size: 3em;
+
+  
+}
+.text-white {
+  color: #fff;
+}
+.text-center {
+  text-align: center;
+}
+.text-small {
+  font-size: 20px;
+  font-weight: 800;
+}
+.alert {
+  text-transform: uppercase;
+  padding-block: 15px;
+  color: rgb(121, 0, 0);
+  background: rgb(218, 112, 112);
+  border: 1px solid red;
+  border-radius: 10px;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.ingrese-pizza {
+  display: flex;
+  justify-content: center;
+  
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  text-shadow: 6px 6px black;
+  font-size: 3em;
+}
+h4 {
+  display: flex;
+  justify-content: center;
+  text-shadow: 6px 6px black;
+  font-size: 2em;
+}
+
